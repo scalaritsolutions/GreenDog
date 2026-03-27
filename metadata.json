@@ -1,0 +1,7 @@
+{
+  "name": "GreenDog Grooming",
+  "description": "Professional botanical pet wellness and expert grooming in Staines-Upon-Thames.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
